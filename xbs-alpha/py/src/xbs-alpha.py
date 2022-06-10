@@ -1,5 +1,3 @@
-#cd "/sdcard/python/XPHN/py/src/geeksforgeeks.org/"
-#python xphn-alpha.py tests.py
 from lexer import *
 from parser import *
 from exec import *
